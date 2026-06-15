@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge Horizon",
+  "description": "An interactive digital library, knowledge tracks, and endless personalized quiz application featuring AI insights, global leaderboards, and verified learning credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
